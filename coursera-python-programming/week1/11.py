@@ -1,5 +1,0 @@
-c = int(input())
-d = int(input())
-n = int(input())
-price = n * (100 * c + d)
-print(price // 100, price % 100)
